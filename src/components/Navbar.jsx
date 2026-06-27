@@ -12,8 +12,14 @@ const Navbar = () => {
             <a href="#Project"  className='hover:text-gray-400'>Projects</a>
             <a href="#Cantact"  className='hover:text-gray-400'>Cantact</a>
         </div>
-        <div className='bg-gradient-to-r from-green-400 to-blue-500 text-white hidden  md:inline
-        transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Connect me</div>
+       <a
+  href="https://www.linkedin.com/in/ismail-elmaghraoui-867991279/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-gradient-to-r from-green-400 to-blue-500 text-white hidden md:inline px-4 py-2 rounded-full hover:scale-105 transform transition-transform duration-300"
+>
+  Connect me
+</a>
       </div>
     </div>
   )

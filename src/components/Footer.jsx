@@ -15,13 +15,13 @@ const Footer = () => {
                 <a href="" className='text-gray-400 hover:text-white'>
                     <FaFacebook/>
                 </a>
-                <a href="" className='text-gray-400 hover:text-white'>
+                <a href="https://www.linkedin.com/in/ismail-elmaghraoui-867991279/" className='text-gray-400 hover:text-white'>
                     <FaLinkedin/>
                 </a>
                 <a href="" className='text-gray-400 hover:text-white'>
                     <FaTwitter/>
                 </a>
-                <a href="" className='text-gray-400 hover:text-white'>
+                <a href="https://github.com/ElmaghraouiIsmail" className='text-gray-400 hover:text-white'>
                     <FaGithub/>
                 </a>
                 
